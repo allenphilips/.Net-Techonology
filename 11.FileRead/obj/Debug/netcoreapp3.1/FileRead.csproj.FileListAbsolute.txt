@@ -1,0 +1,13 @@
+E:\DOT NET LAB\FileRead\bin\Debug\netcoreapp3.1\FileRead.exe
+E:\DOT NET LAB\FileRead\bin\Debug\netcoreapp3.1\FileRead.deps.json
+E:\DOT NET LAB\FileRead\bin\Debug\netcoreapp3.1\FileRead.runtimeconfig.json
+E:\DOT NET LAB\FileRead\bin\Debug\netcoreapp3.1\FileRead.runtimeconfig.dev.json
+E:\DOT NET LAB\FileRead\bin\Debug\netcoreapp3.1\FileRead.dll
+E:\DOT NET LAB\FileRead\bin\Debug\netcoreapp3.1\FileRead.pdb
+E:\DOT NET LAB\FileRead\obj\Debug\netcoreapp3.1\FileRead.csprojAssemblyReference.cache
+E:\DOT NET LAB\FileRead\obj\Debug\netcoreapp3.1\FileRead.AssemblyInfoInputs.cache
+E:\DOT NET LAB\FileRead\obj\Debug\netcoreapp3.1\FileRead.AssemblyInfo.cs
+E:\DOT NET LAB\FileRead\obj\Debug\netcoreapp3.1\FileRead.csproj.CoreCompileInputs.cache
+E:\DOT NET LAB\FileRead\obj\Debug\netcoreapp3.1\FileRead.dll
+E:\DOT NET LAB\FileRead\obj\Debug\netcoreapp3.1\FileRead.pdb
+E:\DOT NET LAB\FileRead\obj\Debug\netcoreapp3.1\FileRead.genruntimeconfig.cache
