@@ -1,0 +1,13 @@
+E:\DOT NET LAB\Filecmp\obj\Debug\netcoreapp3.1\Filecmp.csprojAssemblyReference.cache
+E:\DOT NET LAB\Filecmp\obj\Debug\netcoreapp3.1\Filecmp.AssemblyInfoInputs.cache
+E:\DOT NET LAB\Filecmp\obj\Debug\netcoreapp3.1\Filecmp.AssemblyInfo.cs
+E:\DOT NET LAB\Filecmp\obj\Debug\netcoreapp3.1\Filecmp.csproj.CoreCompileInputs.cache
+E:\DOT NET LAB\Filecmp\bin\Debug\netcoreapp3.1\Filecmp.exe
+E:\DOT NET LAB\Filecmp\bin\Debug\netcoreapp3.1\Filecmp.deps.json
+E:\DOT NET LAB\Filecmp\bin\Debug\netcoreapp3.1\Filecmp.runtimeconfig.json
+E:\DOT NET LAB\Filecmp\bin\Debug\netcoreapp3.1\Filecmp.runtimeconfig.dev.json
+E:\DOT NET LAB\Filecmp\bin\Debug\netcoreapp3.1\Filecmp.dll
+E:\DOT NET LAB\Filecmp\bin\Debug\netcoreapp3.1\Filecmp.pdb
+E:\DOT NET LAB\Filecmp\obj\Debug\netcoreapp3.1\Filecmp.dll
+E:\DOT NET LAB\Filecmp\obj\Debug\netcoreapp3.1\Filecmp.pdb
+E:\DOT NET LAB\Filecmp\obj\Debug\netcoreapp3.1\Filecmp.genruntimeconfig.cache
