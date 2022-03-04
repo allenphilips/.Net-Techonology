@@ -1,0 +1,13 @@
+C:\Users\mca\source\repos\ThreadPool\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPool.csprojAssemblyReference.cache
+C:\Users\mca\source\repos\ThreadPool\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPool.AssemblyInfoInputs.cache
+C:\Users\mca\source\repos\ThreadPool\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPool.AssemblyInfo.cs
+C:\Users\mca\source\repos\ThreadPool\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\mca\source\repos\ThreadPool\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPool.exe
+C:\Users\mca\source\repos\ThreadPool\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPool.deps.json
+C:\Users\mca\source\repos\ThreadPool\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPool.runtimeconfig.json
+C:\Users\mca\source\repos\ThreadPool\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPool.runtimeconfig.dev.json
+C:\Users\mca\source\repos\ThreadPool\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPool.dll
+C:\Users\mca\source\repos\ThreadPool\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPool.pdb
+C:\Users\mca\source\repos\ThreadPool\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPool.dll
+C:\Users\mca\source\repos\ThreadPool\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPool.pdb
+C:\Users\mca\source\repos\ThreadPool\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPool.genruntimeconfig.cache
